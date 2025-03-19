@@ -11,7 +11,7 @@ const experiences = [
   {
     title: "Student Lab Assistant",
     company: "Seneca College",
-    period: "Sept 2024 - Dec 2024",
+    period: "May 2024 - Aug 2024",
     description:
       "Provided technical support, assisted in programming instruction, and collaborated on lab management for an efficient learning environment.",
   },
