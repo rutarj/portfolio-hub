@@ -62,7 +62,6 @@ const currentProjects = [
     image: "/Screenshot_2-2-2025_215612_localhost.jpeg",
     github: "https://github.com/rutarj/AI-Travel-Assistant",
     tech: ["(Python, React.js, Gemini API, MongoDB) "],
-    Link : "https://github.com/rutarj/AI-Travel-Assistant"
   },
 ];
 
