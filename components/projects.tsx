@@ -55,6 +55,15 @@ const currentProjects = [
     github: "https://github.com/JP-sDEV/prj666-team2",
     tech: ["Node.js", "Raspberry Pi", "React Native", "IoT", "Google Auth", "Next.js"],
   },
+  {
+    title: "AI Travel Planner ",
+    description:
+      "Explore a personalized travel experience with Gemini's advanced features, allowing you to effortlessly customize your travel plans. This guide will help you tailor your itinerary with precision, ensuring every trip is unique.",
+    image: "/Screenshot_2-2-2025_215612_localhost.jpeg",
+    github: "https://github.com/rutarj/AI-Travel-Assistant",
+    tech: ["(Python, React.js, Gemini API, MongoDB) "],
+    Link : "https://github.com/rutarj/AI-Travel-Assistant"
+  },
 ];
 
 
