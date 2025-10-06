@@ -2,20 +2,26 @@ import { motion } from "framer-motion"
 
 const experiences = [
   {
-    title: "Peer Mentor",
-    company: "Seneca College",
-    period: "Jan 2025 - Present",
+    title: "Software & Cloud Engineering Intern",
+    company: "BCM Corporation",
+    period: "Sept 2024 - May 2025",
     description:
-      "Student Support for the Computer Programming and Analysis program",
+      "Developed SQL queries to analyze product and system data, built Excel dashboards to track product launches, and supported Agile sprints with reporting and root-cause analysis.",
   },
   {
-    title: "Student Lab Assistant",
-    company: "Seneca College",
+    title: "Technical Support Analyst",
+    company: "Information Technology Services, Seneca College",
     period: "May 2024 - Aug 2024",
     description:
-      "Provided technical support, assisted in programming instruction, and collaborated on lab management for an efficient learning environment.",
+      "Processed 200+ weekly tickets with trend analysis, produced weekly SLA performance reports using SQL and Excel, and maintained user access data accuracy across Microsoft 365 systems.",
   },
- 
+  {
+    title: "Peer Mentor",
+    company: "Seneca College",
+    period: "Jan 2025 - Apr 2025",
+    description:
+      "Mentored students in the Computer Programming and Analysis program, providing academic guidance and facilitating peer learning sessions.",
+  },
 ]
 
 const Experience = () => {
@@ -56,4 +62,3 @@ const Experience = () => {
 }
 
 export default Experience
-
